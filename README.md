@@ -1,4 +1,4 @@
-# ☕ HackerRank Lab: Brewing Logic into Code
+# HackerRank Lab: Brewing Logic into Code
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/HackerRank-Problem-Solving-Playbook/main/Images/hACKERRANK.gif" width="420" alt="HackerRank Dashboard"/>
