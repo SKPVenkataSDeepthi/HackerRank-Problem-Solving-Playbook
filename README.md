@@ -91,23 +91,52 @@
 
 ---
 
-## 📊 HackerRank Dashboard
+## Live Coding Dashboard
+
+<table align="center">
+<tr>
+<td align="center">
+
+### 👤 Profile
+<a href="https://www.hackerrank.com/DeepthiVSKP">
+  <img src="https://img.shields.io/badge/HackerRank-DeepthiVSKP-brightgreen?style=for-the-badge&logo=hackerrank" />
+</a>
+
+</td>
+<td align="center">
+
+### ⚡ Status
+<img src="https://img.shields.io/badge/Active-Learning-blue?style=for-the-badge" /><br/>
+<img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Logic-important?style=for-the-badge" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧠 Stack
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=postgresql"/>
+<img src="https://img.shields.io/badge/R-blueviolet?style=flat-square&logo=r"/>
+
+</td>
+<td align="center">
+
+### ☕ System Mode
+<img src="https://img.shields.io/badge/Consistency-ON-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-DeepthiVSKP-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-HackerRank-brightgreen?style=for-the-badge&logo=hackerrank" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Approach-Learn%20%3E%20Memorize-important?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Consistent-success?style=flat-square" />
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/DeepthiVSKP">
-    <img src="https://img.shields.io/badge/Open-Dashboard-brightgreen?style=for-the-badge&logo=hackerrank" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepthiVSKP&theme=github-dark"/>
 </p>
 
 ---
