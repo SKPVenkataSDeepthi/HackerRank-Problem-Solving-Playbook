@@ -1,7 +1,7 @@
 # ☕ HackerRank Lab: Brewing Logic into Code
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/SKPVenkataSDeepthi/HackerRank-Problem-Solving-Playbook/main/Images/hACKERRANK.gif" width="420" alt="HackerRank Dashboard"/>
 </p>
 
 <p align="center">
