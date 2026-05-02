@@ -22,12 +22,22 @@
 
 ---
 
-## 🏅 SKILL CERTIFICATIONS
+## 🏅 Skill Certifications
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/51eb068b0ecf">
-    <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_R_BASIC_CERTIFICATE_LINK_HERE">
+    <img src="https://skillicons.dev/icons?i=r" height="48" alt="R" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>SQL (Basic)</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>R (Basic)</b></sub>
 </p>
 
 ---
