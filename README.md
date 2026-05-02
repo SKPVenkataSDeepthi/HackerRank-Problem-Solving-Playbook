@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_R_BASIC_CERTIFICATE_LINK_HERE">
+  <a href="https://www.hackerrank.com/certificates/9c35826a28dc">
     <img src="https://skillicons.dev/icons?i=r" height="48" alt="R" />
   </a>
 </p>
