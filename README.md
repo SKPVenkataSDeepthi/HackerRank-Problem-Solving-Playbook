@@ -22,6 +22,16 @@
 
 ---
 
+## 🏅 SKILL CERTIFICATIONS
+
+<p align="center">
+  <a href="https://www.hackerrank.com/certificates/51eb068b0ecf">
+    <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-2ea44f?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧠 TECH STACK MATRIX
 
 <p align="center">
