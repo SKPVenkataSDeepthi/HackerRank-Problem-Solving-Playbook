@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ SYSTEM DASHBOARD
+## SYSTEM DASHBOARD
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=flat-square" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 🏅 Skill Certifications
+## Skill Certifications
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/51eb068b0ecf">
@@ -42,7 +42,7 @@
 
 ---
 
-## 🧠 TECH STACK MATRIX
+## TECH STACK MATRIX
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Primary-blue?style=for-the-badge&logo=python" />
@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 Live Progress Panel
+## Live Progress Panel
 
 <p align="center">
   <img src="https://img.shields.io/badge/Problems-Solving%20Daily-blue?style=flat-square" />
@@ -65,33 +65,33 @@
 
 ---
 
-## ⚙️ EXECUTION ENGINE
+## EXECUTION ENGINE
 
 ```text
 “This should work” → doesn’t work → debug → refine → works 😄
 ```
 ---
 
-## 💡 SOLUTION DESIGN PRINCIPLES
+## SOLUTION DESIGN PRINCIPLES
 
-✅ Clean & readable implementations  
-💭 Clear reasoning behind logic  
-🔁 Iterative improvements  
-⚠️ Edge case awareness  
-
----
-
-## 🛠️ CORE SYSTEM COMPONENTS
-
-- Python 🐍  
-- SQL 🗄️  
-- Data & Logic 🧠  
-- Problem Solving ⚡  
-- Coffee ☕  
+- Clean & readable implementations  
+- Clear reasoning behind logic  
+- Iterative improvements  
+- Edge case awareness  
 
 ---
 
-## 📈 CURRENT OBJECTIVES
+## CORE SYSTEM COMPONENTS
+
+- Python 
+- SQL 
+- Data & Logic 
+- Problem Solving 
+- Coffee 
+
+---
+
+## CURRENT OBJECTIVES
 
 - Strengthen problem-solving intuition  
 - Improve speed under constraints  
@@ -100,7 +100,7 @@
 
 ---
 
-## 🤖 FEEDBACK LOOP
+## FEEDBACK LOOP
 
 | Signal            | Interpretation        |
 |------------------|----------------------|
@@ -135,7 +135,7 @@
 <tr>
 <td align="center">
 
-### 🧠 Stack
+### Stack
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/SQL-lightgrey?style=flat-square&logo=postgresql"/>
 <img src="https://img.shields.io/badge/R-blueviolet?style=flat-square&logo=r"/>
@@ -143,7 +143,7 @@
 </td>
 <td align="center">
 
-### ☕ System Mode
+### System Mode
 <img src="https://img.shields.io/badge/Consistency-ON-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/Coffee-Powered-brown?style=flat-square"/>
 
@@ -153,7 +153,7 @@
 
 ---
 
-## 📈 ACTIVITY GRAPH
+## ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepthiVSKP&theme=github-dark"/>
@@ -161,7 +161,7 @@
 
 ---
 
-## 🌱 SYSTEM PHILOSOPHY
+## SYSTEM PHILOSOPHY
 
 - Consistency > Intensity  
 - Understanding > Memorization  
@@ -169,7 +169,7 @@
 
 ---
 
-## ⚡ FINAL THOUGHT
+## FINAL THOUGHT
 
 “You don’t improve by solving more problems.  
 You improve by understanding why your solution didn’t work ☕”
